@@ -1,0 +1,12 @@
+<script>
+    var video=document.getElementById("videoId");
+    video.volume=0.1;
+</script>
+
+
+<iframe
+    width="{{include.width}}" 
+    height="{{include.height}}" 
+    src="https://www.youtube-nocookie.com/embed/{{include.id}}{{include.options}}" 
+    frameborder="0"
+></iframe>

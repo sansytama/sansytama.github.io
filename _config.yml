@@ -1,0 +1,31 @@
+
+title: Runaway Blog
+email: no.email@noemail.com
+description: I came from brilliancy. And return to brilliancy. What is this?
+baseurl: "" # the subpath of your site
+# url: "http://sansytama.me" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+show_excerpts: false
+plugins:
+  - jekyll-feed
+
+# Minima stuff
+header_pages:
+  - about.md
+  - index.md
+  - draft.md
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  # - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
