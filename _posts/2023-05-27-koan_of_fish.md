@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Koan of fish"
-categories: 
+categories: zen
 ---
 
 I once set up an art installation, reader, which was a box full of dust.
