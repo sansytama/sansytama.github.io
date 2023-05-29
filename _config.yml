@@ -1,8 +1,14 @@
 
 title: Runaway Blog
-email: no.email@noemail.com
-description: I came from brilliancy. And return to brilliancy. What is this?
-baseurl: "" # the subpath of your site
+author:
+  name: Sansytama
+  email: no.email@noemail.com
+
+
+description: >
+  I came from brilliancy. And return to brilliancy. What is this?
+
+# baseurl: "" # the subpath of your site
 # url: "http://sansytama.me" # the base hostname & protocol for your site
 
 # Build settings
@@ -29,3 +35,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"

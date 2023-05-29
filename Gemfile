@@ -1,4 +1,6 @@
-source 'https://rubygems.org' 
-# Note to self: changing this does not change the Github Pages version. You are stuck with whatever they depend on.
-gem "minima"
+source 'https://rubygems.org'
+gemspec
+
+gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
+gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
 gem "webrick", "~> 1.7"
