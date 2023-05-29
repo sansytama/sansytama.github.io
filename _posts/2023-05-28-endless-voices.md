@@ -16,7 +16,7 @@ I don't know why. Even I don't want that. But I can't help but doing that. Looki
 
 There's nothing to change, not that it's about the possibilities of given second chances, it's more about why? Why change? Why now? Why me? What is there to gain? Who am I if one thing from the past happened differently? Would it be someone happier or would it be another I typing all these wandering words? Would the I that knows me know the I that knows me that knows me? Would he knows that I'm thinking about him without knowing him?
 
-Would he pities my situation or would he be jealous but happy for me?
+Would he pities my situation or would he be happy for me?
 
 -----
 
