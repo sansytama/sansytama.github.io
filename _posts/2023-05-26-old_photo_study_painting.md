@@ -9,8 +9,8 @@ categories: art music
 {% include youtube.html
     width   = "700"
     height  = "100"
-    id      = "Qt8fRToFy38"
-    option  = "?autoplay=1&loop=1" 
+    id      = "8G5zkeJJ4LU"
+    options  = "?autoplay=1&loop=1" 
 %} 
 
 <!-- ?autoplay=1&loop=1 -->
