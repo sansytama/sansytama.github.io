@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "sansytama.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "others"],
     defaultDateType: "created",
     theme: {
       cdnCaching: true,
